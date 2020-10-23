@@ -18,3 +18,7 @@ You can select a Youtube Channel with 2 methods:
 ```pip3 install -r requirements.txt```
 
 ```python3 youtube.py```
+
+For youtube.py to work, get a youtube API Key and paste it into the part of the code at the start.
+
+Also Requires Google API Packages (installed using pip)
